@@ -1,0 +1,7 @@
+Recommended readings to help you improve your Python programming skills.
+https://www.tutorialspoint.com/python/python_classes_objects.htm#
+https://www.learnpython.org/en/Classes_and_Objects
+https://www.learnpython.org/en/Modules_and_Packages
+https://www.askpython.com/python/oops/inheritance-in-python
+https://www.askpython.com/python/oops/polymorphism-in-python
+https://www.askpython.com/python/examples/random-password-generator
